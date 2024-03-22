@@ -1,1 +1,1 @@
-# OneCodeCamp
+# OneCodeCamp practice exercise
